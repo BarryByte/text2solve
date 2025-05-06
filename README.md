@@ -1,5 +1,4 @@
 
-````markdown
 # 🧠 Text-to-Solution Tutor
 
 An AI-powered interactive tutor for Math and Physics that helps users step-by-step—from understanding the problem through hints to revealing the complete solution.
@@ -26,7 +25,7 @@ An AI-powered interactive tutor for Math and Physics that helps users step-by-st
    ```bash
    git clone https://github.com/yourusername/text-to-solution-tutor.git
    cd text-to-solution-tutor
-````
+   ````
 
 2. **Install dependencies:**
 
